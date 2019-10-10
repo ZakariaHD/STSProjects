@@ -1,0 +1,5 @@
+package Cap.SpringBoot.AccessingDataJPA;
+
+public interface CustomerRepository {
+
+}
