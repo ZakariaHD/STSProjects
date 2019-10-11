@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\zhaddada\workshop\SpringToolSuit4\STSProjects\Managing-Transactions"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,6 +49,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SAOPService"/>
 			<item value="ConsumeRESTful"/>
 			<item value="WebContentMVC"/>
 		</list>
@@ -69,6 +71,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\zhaddada\workshop\SpringToolSuit4\STSProjects\Managing-Transactions"/>
 			<item value="C:\Users\zhaddada\workshop\SpringToolSuit4\STSProjects\AccessingDataJPA"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -79,5 +82,11 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
 	</section>
 </section>
