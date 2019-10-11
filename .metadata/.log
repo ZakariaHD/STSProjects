@@ -5553,3 +5553,15 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-11 15:54:48.320
 !MESSAGE executing callback sts4.classpath.iNREAQHH SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-11 16:30:13.026
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iNREAQHH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-11 16:30:13.031
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.iNREAQHH
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-11 16:30:13.037
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-11 16:30:13.043
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.iNREAQHH => OK
