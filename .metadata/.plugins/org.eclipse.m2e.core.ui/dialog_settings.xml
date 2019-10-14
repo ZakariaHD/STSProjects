@@ -49,6 +49,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="TestingWeb"/>
+			<item value="SecuriringWebApp"/>
 			<item value="SAOPService"/>
 			<item value="ConsumeRESTful"/>
 			<item value="WebContentMVC"/>
@@ -71,6 +73,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\zhaddada\workshop\SpringToolSuit4\STSProjects\gs-testing-web"/>
 			<item value="C:\Users\zhaddada\workshop\SpringToolSuit4\STSProjects\Managing-Transactions"/>
 			<item value="C:\Users\zhaddada\workshop\SpringToolSuit4\STSProjects\AccessingDataJPA"/>
 		</list>
